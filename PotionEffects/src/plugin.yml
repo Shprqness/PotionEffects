@@ -1,0 +1,19 @@
+name: PotionEffects
+description: Simple Potions with Commands Plugin!
+version: 1.0
+main: secondly.potioneffects.shprqness.Main
+author: Mr Bob
+
+commands:
+  nightvision:
+    usage: /nightvision
+    description: Gives you nightvision
+    permission: potioneffects.nightvision
+  strength:
+    usage: /strength
+    description: Gives you strength
+    permission: potioneffects.strength
+  speed:
+    usage: /speed
+    description: Gives you speed
+    permission: potioneffects.speed
